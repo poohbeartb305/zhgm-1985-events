@@ -1,0 +1,1 @@
+This file includes future expansion drafts, relocations, rebrandings, and arena upgrades from the 1985 NHL season onwards.
