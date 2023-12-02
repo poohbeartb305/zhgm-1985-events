@@ -10,7 +10,7 @@
       "abbrev": "BOS",
       "pop": 3.3,
       "stadiumCapacity": 14451,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539332647243826/1119763923244171354/boston49.png",
+      "imgURL": "https://i.imgur.com/FNYG53V.png",
       "jersey": "hockey3",
       "colors": [
         "#161618",
@@ -27,7 +27,7 @@
       "abbrev": "BUF",
       "pop": 0.9,
       "stadiumCapacity": 16433,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835119079923732/buffalo70.png",
+      "imgURL": "https://i.imgur.com/hfc4KNr.png",
       "jersey": "hockey3",
       "colors": [
         "#003087",
@@ -44,7 +44,7 @@
       "abbrev": "CGY",
       "pop": 0.6,
       "stadiumCapacity": 16605,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835354661388318/calgary79.png",
+      "imgURL": "https://i.imgur.com/gyNZerF.png",
       "jersey": "hockey2",
       "colors": [
         "#C8102E",
@@ -61,7 +61,7 @@
       "abbrev": "CHI",
       "pop": 7.2,
       "stadiumCapacity": 17317,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539332647243826/1119764372517032046/chicago59.png",
+      "imgURL": "https://i.imgur.com/dL5b5fd.png",
       "jersey": "hockey2",
       "colors": [
         "#CF0A2C",
@@ -78,7 +78,7 @@
       "abbrev": "DET",
       "pop": 3.7,
       "stadiumCapacity": 19275,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539332647243826/1119764635931906139/detroit48.png",
+      "imgURL": "https://i.imgur.com/ldgW3RP.png",
       "jersey": "hockey2",
       "colors": [
         "#C60000",
@@ -95,7 +95,7 @@
       "abbrev": "EDM",
       "pop": 0.756,
       "stadiumCapacity": 17498,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836503779053719/edmonton79.png",
+      "imgURL": "https://i.imgur.com/XcgkEoF.png",
       "jersey": "hockey3",
       "colors": [
         "#00205B",
@@ -112,7 +112,7 @@
       "abbrev": "HFD",
       "pop": 0.7,
       "stadiumCapacity": 14817,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119837718462091364/hartford79.png",
+      "imgURL": "https://i.imgur.com/zrsr9iC.png",
       "jersey": "hockey2",
       "colors": [
         "#FFFFFF",
@@ -129,7 +129,7 @@
       "abbrev": "LAK",
       "pop": 10.1,
       "stadiumCapacity": 16005,
-      "imgURL": "https://cdn.discordapp.com/attachments/1124133434386817105/1124137061130190898/losangeles75.png",
+      "imgURL": "https://i.imgur.com/1YvuCxq.png",
       "jersey": "hockey3",
       "colors": [
         "#4F2D7F",
@@ -146,7 +146,7 @@
       "abbrev": "MIN",
       "pop": 1.9,
       "stadiumCapacity": 15000,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119837856857325658/minnesota85.png",
+      "imgURL": "https://i.imgur.com/1jZq7FY.png",
       "jersey": "hockey3",
       "colors": [
         "#007934",
@@ -163,7 +163,7 @@
       "abbrev": "MTL",
       "pop": 2.9,
       "stadiumCapacity": 16074,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539332647243826/1119765325014106222/montreal56.png",
+      "imgURL": "https://i.imgur.com/ZjoqrDw.png",
       "jersey": "hockey2",
       "colors": [
         "#C60000",
@@ -180,7 +180,7 @@
       "abbrev": "NJD",
       "pop": 0.3,
       "stadiumCapacity": 19040,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838361608257576/newjersey82.png",
+      "imgURL": "https://i.imgur.com/KOTSlG9.png",
       "jersey": "hockey",
       "colors": [
         "#FFFFFF",
@@ -197,7 +197,7 @@
       "abbrev": "NYI",
       "pop": 6.5,
       "stadiumCapacity": 16002,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838539115401246/newyork72.png",
+      "imgURL": "https://i.imgur.com/0vzfjA8.png",
       "jersey": "hockey2",
       "colors": [
         "#0033A0",
@@ -214,7 +214,7 @@
       "abbrev": "NYR",
       "pop": 16.1,
       "stadiumCapacity": 17500,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838921694658560/newyork78.png",
+      "imgURL": "https://i.imgur.com/6srCRmA.png",
       "jersey": "hockey3",
       "colors": [
         "#003096",
@@ -231,7 +231,7 @@
       "abbrev": "PHI",
       "pop": 4.6,
       "stadiumCapacity": 17191,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539332647243826/1119766123529916436/philadelphia67.png",
+      "imgURL": "https://i.imgur.com/dwOnbLS.png",
       "jersey": "hockey3",
       "colors": [
         "#FFFFFF",
@@ -248,7 +248,7 @@
       "abbrev": "PIT",
       "pop": 1.7,
       "stadiumCapacity": 16033,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839850758144050/pittsburgh72.png",
+      "imgURL": "https://i.imgur.com/bHbBo4J.png",
       "jersey": "hockey",
       "colors": [
         "#FFFFFF",
@@ -265,7 +265,7 @@
       "abbrev": "QUE",
       "pop": 0.5,
       "stadiumCapacity": 15434,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840051057139762/quebec79.png",
+      "imgURL": "https://i.imgur.com/powmfSw.png",
       "jersey": "hockey2",
       "colors": [
         "#005EB8",
@@ -282,7 +282,7 @@
       "abbrev": "STL",
       "pop": 1.89,
       "stadiumCapacity": 17640,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840388677636126/stlouis84.png",
+      "imgURL": "https://i.imgur.com/3UyNj09.png",
       "jersey": "hockey2",
       "colors": [
         "#003087",
@@ -299,7 +299,7 @@
       "abbrev": "TOR",
       "pop": 3.355,
       "stadiumCapacity": 16182,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840880669495436/toronto82.png",
+      "imgURL": "https://i.imgur.com/APMeSBz.png",
       "jersey": "hockey2",
       "colors": [
         "#003087",
@@ -316,7 +316,7 @@
       "abbrev": "VAN",
       "pop": 1.3,
       "stadiumCapacity": 16553,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840997526999080/vancouver78.png",
+      "imgURL": "https://i.imgur.com/XeIzi0H.png",
       "jersey": "hockey3",
       "colors": [
         "#161618",
@@ -333,7 +333,7 @@
       "abbrev": "WAS",
       "pop": 3.0,
       "stadiumCapacity": 18130,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841181195579553/washington74.png",
+      "imgURL": "https://i.imgur.com/WfVsiwc.png",
       "jersey": "hockey3",
       "colors": [
         "#D50032",
@@ -350,7 +350,7 @@
       "abbrev": "WPG",
       "pop": 0.617,
       "stadiumCapacity": 15565,
-      "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841574059266158/winnipeg79.png",
+      "imgURL": "https://i.imgur.com/C63Dgsp.png",
       "jersey": "hockey3",
       "colors": [
         "#FFFFFF",
@@ -398,19 +398,24 @@
     "minContract": 300,
     "luxuryPayroll": 26000,
     "injuryRate": 0.000081,
-    "pace": 0.96,
+    "pace": 0.98,
     "blockFactor": 1.19,
     "hitFactor": 1.14,
     "assistFactor": 1.27,
+    "saveFactor": 1.0003,
     "maxRosterSize": 27,
-    "tradeDeadline": 0.7,
+    "tradeDeadline": 0.67,
     "allStarGame": 0.58,
     "aiTradesFactor": 0.45,
     "playoffsNumTeamsDiv": 4,
     "minRetireAge": 27,
     "numGames": 80,
     "rookiesCanRefuse": false,
-    "draftType": "noLottery"
+    "draftType": "noLottery",
+    "draftAges": [
+      18,
+      20
+    ]
   },
   "scheduledEvents": [
     {
@@ -418,7 +423,7 @@
       "season": 1991,
       "phase": 4,
       "info": {
-        "numProtectedPlayers": 12,
+        "numProtectedPlayers": 14,
         "teams": [
           {
             "region": "San Jose",
@@ -429,7 +434,7 @@
             "tid": 21,
             "cid": 1,
             "did": 3,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840115922051172/sanjose91.png",
+            "imgURL": "https://i.imgur.com/nMzXg7i.png",
             "jersey": "hockey2",
             "colors": [
               "#007C92",
@@ -445,7 +450,7 @@
       "season": 1992,
       "phase": 4,
       "info": {
-        "numProtectedPlayers": 12,
+        "numProtectedPlayers": 14,
         "teams": [
           {
             "region": "Ottawa",
@@ -456,7 +461,7 @@
             "tid": 22,
             "cid": 0,
             "did": 0,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839231922159666/ottawa92.png",
+            "imgURL": "https://i.imgur.com/RfJ2cql.png",
             "jersey": "hockey2",
             "colors": [
               "#161618",
@@ -473,7 +478,7 @@
             "tid": 23,
             "cid": 1,
             "did": 2,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840701677584424/tampabay92.png",
+            "imgURL": "https://i.imgur.com/9UJiAlk.png",
             "jersey": "hockey",
             "colors": [
               "#002868",
@@ -489,7 +494,7 @@
       "season": 1993,
       "phase": 4,
       "info": {
-        "numProtectedPlayers": 12,
+        "numProtectedPlayers": 14,
         "teams": [
           {
             "region": "Anaheim",
@@ -500,7 +505,7 @@
             "tid": 24,
             "cid": 1,
             "did": 3,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119834140871762000/anaheim93.png",
+            "imgURL": "https://i.imgur.com/0RJk8fY.png",
             "jersey": "hockey2",
             "colors": [
               "#4F324C",
@@ -517,7 +522,7 @@
             "tid": 25,
             "cid": 0,
             "did": 0,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836728086245406/florida93.png",
+            "imgURL": "https://i.imgur.com/QfQwJAU.png",
             "jersey": "hockey",
             "colors": [
               "#002663",
@@ -533,7 +538,7 @@
       "season": 1998,
       "phase": 4,
       "info": {
-        "numProtectedPlayers": 16,
+        "numProtectedPlayers": 14,
         "teams": [
           {
             "region": "Nashville",
@@ -544,7 +549,7 @@
             "tid": 26,
             "cid": 1,
             "did": 3,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838136210554932/nashville98.png",
+            "imgURL": "https://i.imgur.com/yQx1YG5.png",
             "jersey": "hockey3",
             "colors": [
               "#A2AAAD",
@@ -560,7 +565,7 @@
       "season": 1999,
       "phase": 4,
       "info": {
-        "numProtectedPlayers": 16,
+        "numProtectedPlayers": 14,
         "teams": [
           {
             "region": "Atlanta",
@@ -571,7 +576,7 @@
             "tid": 27,
             "cid": 0,
             "did": 2,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119834924254498817/atlanta99.png",
+            "imgURL": "https://i.imgur.com/vcv5Hmk.png",
             "jersey": "hockey3",
             "colors": [
               "#862633",
@@ -587,7 +592,7 @@
       "season": 2000,
       "phase": 4,
       "info": {
-        "numProtectedPlayers": 16,
+        "numProtectedPlayers": 14,
         "teams": [
           {
             "region": "Columbus",
@@ -598,7 +603,7 @@
             "tid": 28,
             "cid": 1,
             "did": 3,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836307489837086/columbus00.png",
+            "imgURL": "https://i.imgur.com/v1XwSHR.png",
             "jersey": "hockey3",
             "colors": [
               "#041E42",
@@ -615,7 +620,7 @@
             "tid": 29,
             "cid": 1,
             "did": 4,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119837985932853358/minnesota00.png",
+            "imgURL": "https://i.imgur.com/p463hY6.png",
             "jersey": "hockey2",
             "colors": [
               "#154734",
@@ -631,7 +636,7 @@
       "season": 2017,
       "phase": 4,
       "info": {
-        "numProtectedPlayers": 16,
+        "numProtectedPlayers": 14,
         "teams": [
           {
             "region": "Vegas",
@@ -642,7 +647,7 @@
             "tid": 30,
             "cid": 1,
             "did": 3,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841150421971004/vegas17.png",
+            "imgURL": "https://i.imgur.com/lWsLUa0.png",
             "jersey": "hockey2",
             "colors": [
               "#333F48",
@@ -658,7 +663,7 @@
       "season": 2021,
       "phase": 4,
       "info": {
-        "numProtectedPlayers": 16,
+        "numProtectedPlayers": 14,
         "teams": [
           {
             "region": "Seattle",
@@ -669,7 +674,7 @@
             "tid": 31,
             "cid": 1,
             "did": 3,
-            "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840298248437800/seattle21.png",
+            "imgURL": "https://i.imgur.com/7xRzrbC.png",
             "jersey": "hockey2",
             "colors": [
               "#011528",
@@ -689,7 +694,7 @@
         "region": "Anaheim",
         "name": "Ducks",
         "abbrev": "ANA",
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119834175051137134/anaheim06.png",
+        "imgURL": "https://i.imgur.com/Cl2rGVs.png",
         "jersey": "hockey2",
         "colors": [
           "#161618",
@@ -704,7 +709,7 @@
       "phase": 0,
       "info": {
         "tid": 24,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119834209289257062/anaheim13.png"
+        "imgURL": "https://i.imgur.com/rcSYHJ6.png"
       }
     },
     {
@@ -713,7 +718,7 @@
       "phase": 0,
       "info": {
         "tid": 24,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119834448582684782/anaheim19.png"
+        "imgURL": "https://i.imgur.com/75y4l85.png"
       }
     },
     {
@@ -727,7 +732,7 @@
         "pop": 2.5,
         "tid": 20,
         "stadiumCapacity": 16210,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119834554283327499/phoenix96.png",
+        "imgURL": "https://i.imgur.com/EEQsOTM.png",
         "jersey": "hockey",
         "colors": [
           "#161618",
@@ -742,7 +747,7 @@
       "phase": 0,
       "info": {
         "tid": 20,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119834618980466778/phoenix03.png",
+        "imgURL": "https://i.imgur.com/vAIqbpm.png",
         "jersey": "hockey2",
         "colors": [
           "#FFFFFF",
@@ -767,7 +772,7 @@
       "phase": 0,
       "info": {
         "tid": 20,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119834762861879316/phoenix96.png",
+        "imgURL": "https://i.imgur.com/EEQsOTM.png",
         "jersey": "hockey",
         "colors": [
           "#161618",
@@ -801,7 +806,7 @@
         "pop": 0.7,
         "tid": 27,
         "stadiumCapacity": 15321,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841635975573585/winnipeg11.png",
+        "imgURL": "https://i.imgur.com/HAkEsxg.png",
         "jersey": "hockey2",
         "colors": [
           "#041E42",
@@ -816,7 +821,7 @@
       "phase": 0,
       "info": {
         "tid": 0,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119834993636687872/boston95.png"
+        "imgURL": "https://i.imgur.com/XlNQkdt.png"
       }
     },
     {
@@ -825,7 +830,7 @@
       "phase": 0,
       "info": {
         "tid": 0,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835031972614295/boston07.png"
+        "imgURL": "https://i.imgur.com/xCp06Ok.png"
       }
     },
     {
@@ -834,7 +839,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835163199807570/buffalo96.png",
+        "imgURL": "https://i.imgur.com/8Wfo275.png",
         "jersey": "hockey3",
         "colors": [
           "#161618",
@@ -849,7 +854,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835213850230886/buffalo06.png",
+        "imgURL": "https://i.imgur.com/5GWHO1v.png",
         "jersey": "hockey2",
         "colors": [
           "#041E42",
@@ -864,7 +869,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835254539178064/buffalo10.png"
+        "imgURL": "https://i.imgur.com/8f2bRjx.png"
       }
     },
     {
@@ -873,7 +878,7 @@
       "phase": 0,
       "info": {
         "tid": 1,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835290262048788/buffalo19.png",
+        "imgURL": "https://i.imgur.com/kbcelbF.png",
         "jersey": "hockey2",
         "colors": [
           "#003087",
@@ -888,7 +893,7 @@
       "phase": 0,
       "info": {
         "tid": 2,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835386009624646/calgary94.png"
+        "imgURL": "https://i.imgur.com/6Tjv27D.png"
       }
     },
     {
@@ -897,7 +902,7 @@
       "phase": 0,
       "info": {
         "tid": 2,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835448919990363/calgary20.png"
+        "imgURL": "https://i.imgur.com/sVFOkBc.png"
       }
     },
     {
@@ -907,7 +912,7 @@
       "info": {
         "tid": 3,
         "name": "Blackhawks",
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835729611194488/chicago86.png"
+        "imgURL": "https://i.imgur.com/qk9RdrE.png"
       }
     },
     {
@@ -916,7 +921,7 @@
       "phase": 0,
       "info": {
         "tid": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835765426360440/chicago89.png"
+        "imgURL": "https://i.imgur.com/NFgfrgV.png"
       }
     },
     {
@@ -925,7 +930,7 @@
       "phase": 0,
       "info": {
         "tid": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835794237030441/chicago99.png"
+        "imgURL": "https://i.imgur.com/aTrCwaq.png"
       }
     },
     {
@@ -934,7 +939,7 @@
       "phase": 0,
       "info": {
         "tid": 28,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836334924759112/columbus07.png"
+        "imgURL": "https://i.imgur.com/Q9xInvs.png"
       }
     },
     {
@@ -943,7 +948,7 @@
       "phase": 0,
       "info": {
         "tid": 10,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838406332137513/newjersey92.png",
+        "imgURL": "https://i.imgur.com/yPbFHZV.png",
         "jersey": "hockey",
         "colors": [
           "#C8102E",
@@ -958,7 +963,7 @@
       "phase": 0,
       "info": {
         "tid": 10,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838448531034214/newjersey99.png"
+        "imgURL": "https://i.imgur.com/zoDvoZw.png"
       }
     },
     {
@@ -967,7 +972,7 @@
       "phase": 0,
       "info": {
         "tid": 8,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119837856857325658/minnesota85.png",
+        "imgURL": "https://i.imgur.com/krAP748.png",
         "jersey": "hockey",
         "colors": [
           "#007934",
@@ -982,7 +987,7 @@
       "phase": 0,
       "info": {
         "tid": 8,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119837926323392512/minnesota91.png",
+        "imgURL": "https://i.imgur.com/G0XBimK.png",
         "jersey": "hockey",
         "colors": [
           "#FFFFFF",
@@ -1002,7 +1007,7 @@
         "pop": 3.5,
         "tid": 8,
         "stadiumCapacity": 16500,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836442886144030/dallas94.png",
+        "imgURL": "https://i.imgur.com/hFavtuT.png",
         "jersey": "hockey",
         "colors": [
           "#FFFFFF",
@@ -1031,7 +1036,7 @@
       "phase": 0,
       "info": {
         "tid": 8,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836465950621696/dallas13.png",
+        "imgURL": "https://i.imgur.com/rgC9Gp0.png",
         "jersey": "hockey2",
         "colors": [
           "#00843D",
@@ -1046,7 +1051,7 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836543578816582/edmonton86.png"
+        "imgURL": "https://i.imgur.com/aBWaBPA.png"
       }
     },
     {
@@ -1055,7 +1060,7 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836637183086612/edmonton96.png",
+        "imgURL": "https://i.imgur.com/BwKJ818.png",
         "jersey": "hockey",
         "colors": [
           "#FFFFFF",
@@ -1070,7 +1075,7 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836672318787707/edmonton11.png",
+        "imgURL": "https://i.imgur.com/8Snzb4g.png",
         "jersey": "hockey3",
         "colors": [
           "#00205B",
@@ -1085,7 +1090,7 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836696662519859/edmonton17.png",
+        "imgURL": "https://i.imgur.com/3xpjUXb.png",
         "jersey": "hockey3",
         "colors": [
           "#041E42",
@@ -1100,7 +1105,7 @@
       "phase": 0,
       "info": {
         "tid": 25,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836764627025981/florida16.png",
+        "imgURL": "https://i.imgur.com/6hzoSuP.png",
         "jersey": "hockey2",
         "colors": [
           "#C8102E",
@@ -1115,7 +1120,7 @@
       "phase": 0,
       "info": {
         "tid": 6,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119837762699403304/hartford92.png",
+        "imgURL": "https://i.imgur.com/85aNCTo.png",
         "jersey": "hockey",
         "colors": [
           "#FFFFFF",
@@ -1135,7 +1140,7 @@
         "pop": 0.4,
         "tid": 6,
         "stadiumCapacity": 21273,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835645083398195/carolina97.png",
+        "imgURL": "https://i.imgur.com/XaRaMKP.png",
         "jersey": "hockey2",
         "colors": [
           "#E4002B",
@@ -1150,7 +1155,7 @@
       "phase": 0,
       "info": {
         "tid": 6,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119835672241512458/carolina99.png"
+        "imgURL": "https://i.imgur.com/zNVStV3.png"
       }
     },
     {
@@ -1159,7 +1164,7 @@
       "phase": 0,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1124133434386817105/1124137094382620783/losangeles87.png"
+        "imgURL": "https://i.imgur.com/qxSeNha.png"
       }
     },
     {
@@ -1168,7 +1173,7 @@
       "phase": 0,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1124133434386817105/1124137132630482954/losangeles88.png",
+        "imgURL": "https://i.imgur.com/D7acoyU.png",
         "jersey": "hockey2",
         "colors": [
           "#161618",
@@ -1183,7 +1188,7 @@
       "phase": 0,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1124133434386817105/1124137169313878157/losangeles98.png",
+        "imgURL": "https://i.imgur.com/1eKRRbg.png",
         "jersey": "hockey3",
         "colors": [
           "#250E62",
@@ -1198,7 +1203,7 @@
       "phase": 0,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1124133434386817105/1124137208769691782/losangeles2002.png"
+        "imgURL": "https://i.imgur.com/ypLLgkK.png"
       }
     },
     {
@@ -1207,7 +1212,7 @@
       "phase": 0,
       "info": {
         "tid": 7,
-        "imgURL": "https://cdn.discordapp.com/attachments/1124133434386817105/1124137245385953391/losangeles2011.png",
+        "imgURL": "https://i.imgur.com/Wnnf30i.png",
         "jersey": "hockey4",
         "colors": [
           "#161618",
@@ -1222,7 +1227,7 @@
       "phase": 0,
       "info": {
         "tid": 9,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838084222165032/montreal99.png"
+        "imgURL": "https://i.imgur.com/7nx43fE.png"
       }
     },
     {
@@ -1231,7 +1236,7 @@
       "phase": 0,
       "info": {
         "tid": 29,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838027586474104/minnesota13.png"
+        "imgURL": "https://i.imgur.com/l9kqTXm.png"
       }
     },
     {
@@ -1240,7 +1245,7 @@
       "phase": 0,
       "info": {
         "tid": 26,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838173346934804/nashville11.png",
+        "imgURL": "https://i.imgur.com/IjX3uuD.png",
         "jersey": "hockey2",
         "colors": [
           "#FFB81C",
@@ -1255,7 +1260,7 @@
       "phase": 0,
       "info": {
         "tid": 11,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838586485874772/newyork95.png",
+        "imgURL": "https://i.imgur.com/2IMPQwq.png",
         "jersey": "hockey",
         "colors": [
           "#009CA6",
@@ -1270,7 +1275,7 @@
       "phase": 0,
       "info": {
         "tid": 11,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838688818515989/newyork97.png",
+        "imgURL": "https://i.imgur.com/AhMbUzm.png",
         "jersey": "hockey2",
         "colors": [
           "#041E42",
@@ -1285,7 +1290,7 @@
       "phase": 0,
       "info": {
         "tid": 11,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838737497595935/newyork10.png",
+        "imgURL": "https://i.imgur.com/T4KrsK4.png",
         "jersey": "hockey2",
         "colors": [
           "#0033A0",
@@ -1300,7 +1305,7 @@
       "phase": 0,
       "info": {
         "tid": 11,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119838802052124702/newyork17.png"
+        "imgURL": "https://i.imgur.com/ylzj2KO.png"
       }
     },
     {
@@ -1309,7 +1314,7 @@
       "phase": 0,
       "info": {
         "tid": 12,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839010794242109/newyork99.png"
+        "imgURL": "https://i.imgur.com/C39XgdR.png"
       }
     },
     {
@@ -1318,7 +1323,7 @@
       "phase": 0,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839392744353883/ottawa97.png"
+        "imgURL": "https://i.imgur.com/UF58CWV.png"
       }
     },
     {
@@ -1341,7 +1346,7 @@
       "phase": 0,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839434477682828/ottawa07.png"
+        "imgURL": "https://i.imgur.com/gT1Xd0P.png"
       }
     },
     {
@@ -1350,7 +1355,7 @@
       "phase": 0,
       "info": {
         "tid": 22,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839695443071106/ottawa20.png",
+        "imgURL": "https://i.imgur.com/XEFzMGI.png",
         "jersey": "hockey2",
         "colors": [
           "#161618",
@@ -1365,7 +1370,7 @@
       "phase": 0,
       "info": {
         "tid": 13,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839781355012147/philadelphia99.png"
+        "imgURL": "https://i.imgur.com/64qRz5N.png"
       }
     },
     {
@@ -1402,7 +1407,7 @@
       "phase": 0,
       "info": {
         "tid": 14,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839893502312498/pittsburgh92.png"
+        "imgURL": "https://i.imgur.com/nmQagmZ.png"
       }
     },
     {
@@ -1411,7 +1416,7 @@
       "phase": 0,
       "info": {
         "tid": 14,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839929464258580/pittsburgh99.png"
+        "imgURL": "https://i.imgur.com/lWMsvnn.png"
       }
     },
     {
@@ -1420,7 +1425,7 @@
       "phase": 0,
       "info": {
         "tid": 14,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119839968769101914/pittsburgh02.png",
+        "imgURL": "https://i.imgur.com/xC2GuS5.png",
         "jersey": "hockey",
         "colors": [
           "#FFFFFF",
@@ -1435,7 +1440,7 @@
       "phase": 0,
       "info": {
         "tid": 14,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840002906533969/pittsburgh16.png",
+        "imgURL": "https://i.imgur.com/Jg3fyvd.png",
         "jersey": "hockey",
         "colors": [
           "#FFFFFF",
@@ -1457,7 +1462,7 @@
         "tid": 15,
         "cid": 1,
         "did": 3,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836220256686120/colorado95.png",
+        "imgURL": "https://i.imgur.com/ekwUiJM.png",
         "jersey": "hockey",
         "colors": [
           "#FFFFFF",
@@ -1472,7 +1477,7 @@
       "phase": 0,
       "info": {
         "tid": 15,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119836252435394560/colorado99.png"
+        "imgURL": "https://i.imgur.com/bCBDrtz.png"
       }
     },
     {
@@ -1481,7 +1486,7 @@
       "phase": 0,
       "info": {
         "tid": 21,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840165389684776/sanjose98.png"
+        "imgURL": "https://i.imgur.com/FjVYhVP.png"
       }
     },
     {
@@ -1490,7 +1495,7 @@
       "phase": 0,
       "info": {
         "tid": 21,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840199132848259/sanjose07.png",
+        "imgURL": "https://i.imgur.com/WyIUy7z.png",
         "jersey": "hockey",
         "colors": [
           "#161618",
@@ -1505,7 +1510,7 @@
       "phase": 0,
       "info": {
         "tid": 21,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840242602627083/sanjose08.png"
+        "imgURL": "https://i.imgur.com/lUuASKr.png"
       }
     },
     {
@@ -1528,7 +1533,7 @@
       "phase": 0,
       "info": {
         "tid": 16,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840418734030858/stlouis87.png"
+        "imgURL": "https://i.imgur.com/TcVBy33.png"
       }
     },
     {
@@ -1537,7 +1542,7 @@
       "phase": 0,
       "info": {
         "tid": 16,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840452514951188/stlouis89.png"
+        "imgURL": "https://i.imgur.com/kWHDDMt.png"
       }
     },
     {
@@ -1546,7 +1551,7 @@
       "phase": 0,
       "info": {
         "tid": 16,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840492054646794/stlouis98.png",
+        "imgURL": "https://i.imgur.com/4L7vm0n.png",
         "jersey": "hockey",
         "colors": [
           "#FFFFFF",
@@ -1561,7 +1566,7 @@
       "phase": 0,
       "info": {
         "tid": 16,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840529555927090/stlouis08.png"
+        "imgURL": "https://i.imgur.com/aoY0hRD.png"
       }
     },
     {
@@ -1570,7 +1575,7 @@
       "phase": 0,
       "info": {
         "tid": 23,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840743457038376/tampabay01.png"
+        "imgURL": "https://i.imgur.com/RtxSOhv.png"
       }
     },
     {
@@ -1579,7 +1584,7 @@
       "phase": 0,
       "info": {
         "tid": 23,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840773416943717/tampabay07.png",
+        "imgURL": "https://i.imgur.com/M0FJXUN.png",
         "jersey": "hockey",
         "colors": [
           "#161618",
@@ -1594,7 +1599,7 @@
       "phase": 0,
       "info": {
         "tid": 23,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840805763416105/tampabay11.png",
+        "imgURL": "https://i.imgur.com/cLrL78M.png",
         "jersey": "hockey2",
         "colors": [
           "#00205B",
@@ -1623,7 +1628,7 @@
       "phase": 0,
       "info": {
         "tid": 17,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119840911782854716/toronto16.png"
+        "imgURL": "https://i.imgur.com/qhiKZ2c.png"
       }
     },
     {
@@ -1646,7 +1651,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841038253686884/vancouver97.png",
+        "imgURL": "https://i.imgur.com/k3mFZGV.png",
         "jersey": "hockey2",
         "colors": [
           "#041C2C",
@@ -1661,7 +1666,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841071170596976/vancouver07.png",
+        "imgURL": "https://i.imgur.com/CuI9ynw.png",
         "jersey": "hockey2",
         "colors": [
           "#00205B",
@@ -1676,7 +1681,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://cdn.discordapp.com/attachments/1124133434386817105/1124942348175028274/vancouver20.png"
+        "imgURL": "https://i.imgur.com/o8UKHiK.png"
       }
     },
     {
@@ -1699,7 +1704,7 @@
       "phase": 0,
       "info": {
         "tid": 19,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841220064194661/washington95.png",
+        "imgURL": "https://i.imgur.com/LFaIIYK.png",
         "jersey": "hockey3",
         "colors": [
           "#236192",
@@ -1714,7 +1719,7 @@
       "phase": 0,
       "info": {
         "tid": 19,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841259914268764/washington97.png"
+        "imgURL": "https://i.imgur.com/9vxGTn2.png"
       }
     },
     {
@@ -1723,7 +1728,7 @@
       "phase": 0,
       "info": {
         "tid": 19,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841288930459699/washington07.png",
+        "imgURL": "https://i.imgur.com/YP274Nj.png",
         "jersey": "hockey2",
         "colors": [
           "#FFFFFF",
@@ -1738,7 +1743,7 @@
       "phase": 0,
       "info": {
         "tid": 20,
-        "imgURL": "https://cdn.discordapp.com/attachments/1119539677838462976/1119841604182749234/winnipeg90.png",
+        "imgURL": "https://i.imgur.com/vaGOfiP.png",
         "jersey": "hockey2",
         "colors": [
           "#FFFFFF",
@@ -3690,11 +3695,32 @@
       }
     },
     {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 23,
+        "cid": 0,
+        "did": 0
+      }
+    },
+    {
       "type": "gameAttributes",
       "season": 1993,
       "phase": 0,
       "info": {
         "numGames": 84
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1995,
+      "phase": 0,
+      "info": {
+        "numGames": 48,
+        "numGamesConf": 24,
+        "numGamesDiv": 24,
+        "allStarGame": false
       }
     },
     {
@@ -3706,14 +3732,24 @@
       }
     },
     {
-      "type": "teamInfo",
-      "season": 1994,
+      "type": "gameAttributes",
+      "season": 2013,
       "phase": 0,
       "info": {
-        "tid": 23,
-        "cid": 0,
-        "did": 0
+        "numGames": 48,
+        "numGamesConf": 30,
+        "numGamesDiv": 18,
+        "allStarGame": false
+      }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2014,
+      "phase": 0,
+      "info": {
+        "numGames": 82
       }
     }
-  ]
+  ],
+  "version": 58
 }
