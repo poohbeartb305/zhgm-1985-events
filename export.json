@@ -99,7 +99,7 @@
       "jersey": "hockey3",
       "colors": [
         "#00205B",
-        "#CF4250",
+        "#CF4520",
         "#FFFFFF"
       ]
     },
@@ -354,8 +354,8 @@
       "jersey": "hockey3",
       "colors": [
         "#FFFFFF",
-        "#E4002B",
-        "#001498"
+        "#001498",
+        "#E4002B"
       ]
     }
   ],
@@ -398,11 +398,11 @@
     "minContract": 300,
     "luxuryPayroll": 26000,
     "injuryRate": 0.000081,
-    "pace": 0.98,
-    "blockFactor": 1.19,
+    "pace": 1.02,
+    "blockFactor": 1.22,
     "hitFactor": 1.14,
-    "assistFactor": 1.27,
-    "saveFactor": 1.0003,
+    "assistFactor": 1.08,
+    "saveFactor": 1.00048,
     "maxRosterSize": 27,
     "tradeDeadline": 0.67,
     "allStarGame": 0.58,
