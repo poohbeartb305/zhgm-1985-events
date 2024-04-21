@@ -393,21 +393,25 @@
       }
     ],
     "minPayroll": 17000,
-    "salaryCap": 25000,
+    "salaryCap": 23000,
     "maxContract": 3000,
-    "minContract": 300,
+    "minContract": 500,
     "luxuryPayroll": 26000,
     "injuryRate": 0.000081,
-    "pace": 1.02,
+    "pace": 1.027,
     "blockFactor": 1.22,
     "hitFactor": 1.14,
     "assistFactor": 1.08,
+    "hofFactor": 1.35,
     "saveFactor": 1.00048,
     "maxRosterSize": 27,
     "tradeDeadline": 0.67,
     "allStarGame": 0.58,
     "aiTradesFactor": 0.45,
     "playoffsNumTeamsDiv": 4,
+    "maxOvertimes": null,
+    "shootoutRounds": 0,
+    "shootoutRoundsPlayoffs": 0,
     "minRetireAge": 27,
     "numGames": 80,
     "rookiesCanRefuse": false,
@@ -3811,7 +3815,17 @@
       "info": {
         "numGames": 82
       }
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2006,
+      "phase": 0,
+      "info": {
+        "maxOvertimes": 1,
+        "shootoutRounds": 3,
+        "shootoutRoundsPlayoffs": 0
+      }
     }
   ],
-  "version": 58
+  "version": 59
 }
