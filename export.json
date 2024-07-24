@@ -98,9 +98,9 @@
       "imgURL": "https://i.imgur.com/XcgkEoF.png",
       "jersey": "hockey3",
       "colors": [
-        "#00205B",
-        "#CF4520",
-        "#FFFFFF"
+        "#0031AD",
+        "#FFFFFF",
+        "#FF6319"
       ]
     },
     {
@@ -394,16 +394,16 @@
     ],
     "minPayroll": 17000,
     "salaryCap": 23000,
-    "maxContract": 3000,
+    "maxContract": 3250,
     "minContract": 500,
-    "luxuryPayroll": 26000,
+    "salaryCapType": "hard",
     "injuryRate": 0.000081,
     "pace": 1.027,
     "blockFactor": 1.22,
     "hitFactor": 1.14,
     "assistFactor": 1.08,
     "hofFactor": 1.35,
-    "saveFactor": 1.00048,
+    "saveFactor": 1.00058,
     "maxRosterSize": 27,
     "tradeDeadline": 0.67,
     "allStarGame": 0.58,
@@ -418,7 +418,7 @@
     "draftType": "noLottery",
     "draftAges": [
       18,
-      20
+      19
     ],
     "playerBioInfo": {
       "frequencies": {
@@ -435,12 +435,12 @@
         "China": 0.2,
         "Croatia": 0.2,
         "Czech Republic": 34,
-        "Denmark": 8,
+        "Denmark": 7,
         "England": 1,
         "Estonia": 0.2,
         "Finland": 55,
         "France": 3,
-        "Germany": 9,
+        "Germany": 9.5,
         "Greece": 0.2,
         "Hungary": 0.2,
         "Iceland": 0.2,
@@ -575,7 +575,7 @@
             "jersey": "hockey2",
             "colors": [
               "#4F324C",
-              "#00675A",
+              "#FFFFFF",
               "#00675A"
             ]
           },
@@ -945,7 +945,7 @@
       "info": {
         "tid": 1,
         "imgURL": "https://i.imgur.com/kbcelbF.png",
-        "jersey": "hockey2",
+        "jersey": "hockey3",
         "colors": [
           "#003087",
           "#FFFFFF",
@@ -1144,7 +1144,7 @@
         "imgURL": "https://i.imgur.com/8Snzb4g.png",
         "jersey": "hockey3",
         "colors": [
-          "#00205B",
+          "#0031AD",
           "#FFFFFF",
           "#FF6319"
         ]
@@ -1162,6 +1162,20 @@
           "#041E42",
           "#FFFFFF",
           "#FC4C02"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2023,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "jersey": "hockey3",
+        "colors": [
+          "#0031AD",
+          "#FFFFFF",
+          "#FF6319"
         ]
       }
     },
@@ -1401,8 +1415,8 @@
         "jersey": "hockey2",
         "colors": [
           "#FFFFFF",
-          "#161618",
-          "#C60C30"
+          "#C60C30",
+          "#161618"
         ]
       }
     },
@@ -1747,7 +1761,7 @@
       "phase": 0,
       "info": {
         "tid": 18,
-        "imgURL": "https://i.imgur.com/o8UKHiK.png"
+        "imgURL": "https://i.imgur.com/yq6k5rk.png"
       }
     },
     {
@@ -1797,9 +1811,9 @@
         "imgURL": "https://i.imgur.com/YP274Nj.png",
         "jersey": "hockey2",
         "colors": [
-          "#FFFFFF",
+          "#C8102E",
           "#041E42",
-          "#C8102E"
+          "#FFFFFF"
         ]
       }
     },
@@ -3794,7 +3808,8 @@
       "season": 1996,
       "phase": 0,
       "info": {
-        "numGames": 82
+        "numGames": 82,
+        "allStarGame": true
       }
     },
     {
@@ -3813,7 +3828,8 @@
       "season": 2014,
       "phase": 0,
       "info": {
-        "numGames": 82
+        "numGames": 82,
+        "allStarGame": true
       }
     },
     {
