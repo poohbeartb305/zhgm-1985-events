@@ -14,10 +14,12 @@ RELOCATIONS/REBRANDINGS
 Anaheim Ducks rebrand (new logo and uniform, no longer mighty) 2007
 Anaheim Ducks rebrand (new logo) 2014
 Anaheim Ducks rebrand (logo update) 2020
+Anaheim Ducks rebrand (new logo and uniform) 2025
 Winnipeg Jets relocate to Phoenix 1997
 Phoenix Coyotes rebrand (new logo and uniform) 2004
 Phoenix Coyotes name change to Arizona Coyotes 2015
 Arizona Coyotes rebrand (new logo and uniform) 2022
+Arizona Coyotes relocate to Utah 2025
 Atlanta Thrashers rebrand (new uniform) 2007
 Atlanta Thrashers relocate to Winnipeg 2012
 Boston Bruins rebrand (logo update) 1996
@@ -52,6 +54,7 @@ Los Angeles Kings rebrand (logo update and new uniform) 1989
 Los Angeles Kings rebrand (new logo and uniform) 1999
 Los Angeles Kings rebrand (new logo) 2003
 Los Angeles Kings rebrand (new logo and uniform) 2012
+Los Angeles Kings rebrand (new logo and uniform) 2025
 Montreal Canadiens rebrand (logo update) 2000
 Minnesota Wild rebrand (logo update) 2014
 Nashville Predators rebrand (logo update and new uniform) 2012
