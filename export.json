@@ -789,6 +789,21 @@
     },
     {
       "type": "teamInfo",
+      "season": 2025,
+      "phase": 0,
+      "info": {
+        "tid": 24,
+        "imgURL": "https://imgur.com/N0FyVdu.png",
+        "jersey": "hockey",
+        "colors": [
+          "#FFFFFF",
+          "#CF451F",
+          "#161618"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
       "season": 1997,
       "phase": 0,
       "info": {
@@ -844,6 +859,26 @@
           "#161618",
           "#154734",
           "#862633"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2025,
+      "phase": 0,
+      "info": {
+        "tid": 20,
+        "region": "Utah",
+        "name": "Hockey Club",
+        "abbrev": "UTA",
+        "imgURL": "https://imgur.com/lamUgTK.png",
+        "pop": 1.2,
+        "stadiumCapacity": 16200,
+        "jersey": "hockey",
+        "colors": [
+          "#161618",
+          "#69b3e7",
+          "#FFFFFF"
         ]
       }
     },
@@ -1298,6 +1333,21 @@
           "#161618",
           "#A2AAAD",
           "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2025,
+      "phase": 0,
+      "info": {
+        "tid": 7,
+        "imgURL": "https://imgur.com/fDbx3pE.png",
+        "jersey": "hockey2",
+        "colors": [
+          "#161618",
+          "#A2AAAD",
+          "#A2AAAD"
         ]
       }
     },
