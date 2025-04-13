@@ -360,6 +360,7 @@
     }
   ],
   "gameAttributes": {
+    "difficulty": 0.50,
     "confs": [
       {
         "cid": 0,
@@ -394,8 +395,8 @@
     ],
     "minPayroll": 17000,
     "salaryCap": 23000,
-    "maxContract": 3250,
-    "minContract": 500,
+    "maxContract": 3000,
+    "minContract": 250,
     "salaryCapType": "hard",
     "injuryRate": 0.000081,
     "pace": 1.027,
@@ -404,15 +405,15 @@
     "assistFactor": 1.08,
     "hofFactor": 1.35,
     "saveFactor": 1.00058,
-    "maxRosterSize": 27,
+    "maxRosterSize": 26,
     "tradeDeadline": 0.67,
     "allStarGame": 0.58,
-    "aiTradesFactor": 0.45,
+    "aiTradesFactor": 0.75,
     "playoffsNumTeamsDiv": 4,
     "maxOvertimes": null,
     "shootoutRounds": 0,
     "shootoutRoundsPlayoffs": 0,
-    "minRetireAge": 27,
+    "minRetireAge": 26,
     "numGames": 80,
     "rookiesCanRefuse": false,
     "draftType": "noLottery",
