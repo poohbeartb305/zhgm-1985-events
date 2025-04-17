@@ -396,19 +396,19 @@
     "minPayroll": 17000,
     "salaryCap": 23000,
     "maxContract": 3000,
-    "minContract": 350,
+    "minContract": 250,
     "salaryCapType": "hard",
-    "injuryRate": 0.000081,
-    "pace": 1.027,
+    "injuryRate": 0.000083,
+    "pace": 1.029,
     "blockFactor": 1.22,
     "hitFactor": 1.14,
     "assistFactor": 1.08,
     "hofFactor": 1.35,
-    "saveFactor": 1.00058,
-    "maxRosterSize": 26,
+    "saveFactor": 1.00068,
+    "maxRosterSize": 25,
     "tradeDeadline": 0.67,
     "allStarGame": 0.58,
-    "aiTradesFactor": 0.75,
+    "aiTradesFactor": 0.80,
     "playoffsNumTeamsDiv": 4,
     "maxOvertimes": null,
     "shootoutRounds": 0,
@@ -418,6 +418,7 @@
     "rookiesCanRefuse": false,
     "draftPickAutoContract": true,
     "draftPickAutoContractPercent": 11.6666667,
+    "draftPickAutoContractRounds": 1,
     "draftType": "noLottery",
     "draftAges": [
       18,
@@ -931,6 +932,24 @@
     {
       "type": "teamInfo",
       "season": 2008,
+      "phase": 0,
+      "info": {
+        "tid": 0,
+        "imgURL": "https://i.imgur.com/xCp06Ok.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2024,
+      "phase": 0,
+      "info": {
+        "tid": 0,
+        "imgURL": "https://imgur.com/fwyEAsx.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2025,
       "phase": 0,
       "info": {
         "tid": 0,
@@ -3862,6 +3881,8 @@
       "phase": 0,
       "info": {
         "numGames": 82,
+        "numGamesConf": 20,
+        "numGamesDiv": 22,
         "allStarGame": true
       }
     },
@@ -3882,6 +3903,8 @@
       "phase": 0,
       "info": {
         "numGames": 82,
+        "numGamesConf": 24,
+        "numGamesDiv": 28,
         "allStarGame": true
       }
     },

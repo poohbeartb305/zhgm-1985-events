@@ -24,6 +24,7 @@ Atlanta Thrashers rebrand (new uniform) 2007
 Atlanta Thrashers relocate to Winnipeg 2012
 Boston Bruins rebrand (logo update) 1996
 Boston Bruins rebrand (logo update) 2008
+Boston Bruins rebrand (centennial season update) 2025
 Buffalo Sabres rebrand (new logo and uniform) 1997
 Buffalo Sabres rebrand (new logo and uniform) 2007
 Buffalo Sabres rebrand (new logo) 2011
