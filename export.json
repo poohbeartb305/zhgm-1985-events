@@ -396,7 +396,7 @@
     "minPayroll": 17000,
     "salaryCap": 23000,
     "maxContract": 3000,
-    "minContract": 250,
+    "minContract": 350,
     "salaryCapType": "hard",
     "injuryRate": 0.000081,
     "pace": 1.027,
@@ -416,6 +416,8 @@
     "minRetireAge": 26,
     "numGames": 80,
     "rookiesCanRefuse": false,
+    "draftPickAutoContract": true,
+    "draftPickAutoContractPercent": 11.6666667,
     "draftType": "noLottery",
     "draftAges": [
       18,
