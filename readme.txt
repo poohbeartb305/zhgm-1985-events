@@ -20,6 +20,7 @@ Phoenix Coyotes rebrand (new logo and uniform) 2004
 Phoenix Coyotes name change to Arizona Coyotes 2015
 Arizona Coyotes rebrand (new logo and uniform) 2022
 Arizona Coyotes relocate to Utah 2025
+Utah Hockey Club rebrand (new logo and team name) 2026
 Atlanta Thrashers rebrand (new uniform) 2007
 Atlanta Thrashers relocate to Winnipeg 2012
 Boston Bruins rebrand (logo update) 1996

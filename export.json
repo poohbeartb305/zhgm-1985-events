@@ -877,7 +877,27 @@
         "abbrev": "UTA",
         "imgURL": "https://imgur.com/lamUgTK.png",
         "pop": 1.2,
-        "stadiumCapacity": 16200,
+        "stadiumCapacity": 11131,
+        "jersey": "hockey",
+        "colors": [
+          "#161618",
+          "#69b3e7",
+          "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2026,
+      "phase": 0,
+      "info": {
+        "tid": 20,
+        "region": "Utah",
+        "name": "Mammoth",
+        "abbrev": "UTA",
+        "imgURL": "https://i.imgur.com/oyGW2qY.png",
+        "pop": 1.2,
+        "stadiumCapacity": 17000,
         "jersey": "hockey",
         "colors": [
           "#161618",
@@ -3919,5 +3939,5 @@
       }
     }
   ],
-  "version": 64
+  "version": 67
 }
