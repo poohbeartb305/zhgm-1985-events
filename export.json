@@ -410,7 +410,8 @@
     "allStarGame": 0.58,
     "aiTradesFactor": 0.80,
     "playoffsNumTeamsDiv": 4,
-    "maxOvertimes": null,
+    "maxOvertimes": 1,
+    "otl": false,
     "shootoutRounds": 0,
     "shootoutRoundsPlayoffs": 0,
     "minRetireAge": 26,
@@ -897,7 +898,7 @@
         "abbrev": "UTA",
         "imgURL": "https://i.imgur.com/oyGW2qY.png",
         "pop": 1.2,
-        "stadiumCapacity": 17000,
+        "stadiumCapacity": 16020,
         "jersey": "hockey",
         "colors": [
           "#161618",
@@ -974,6 +975,15 @@
       "info": {
         "tid": 0,
         "imgURL": "https://i.imgur.com/xCp06Ok.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2026,
+      "phase": 0,
+      "info": {
+        "tid": 0,
+        "imgURL": "https://i.imgur.com/fwyEAsx.png"
       }
     },
     {
@@ -1739,6 +1749,21 @@
       "info": {
         "tid": 16,
         "imgURL": "https://i.imgur.com/aoY0hRD.png"
+      }
+    },
+    {
+      "type": "teamInfo",
+      "season": 2026,
+      "phase": 0,
+      "info": {
+        "tid": 16,
+        "imgURL": "https://i.imgur.com/iSkygBj.png",
+        "jersey": "hockey2",
+        "colors": [
+          "#006AC6",
+          "#FFC600",
+          "#FFC600"
+        ]
       }
     },
     {
@@ -3933,6 +3958,7 @@
       "season": 2006,
       "phase": 0,
       "info": {
+        "otl": true,
         "maxOvertimes": 1,
         "shootoutRounds": 3,
         "shootoutRoundsPlayoffs": 0
